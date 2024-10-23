@@ -1,0 +1,47 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "算力卡查询助手"	
+			}
+		},
+		{
+			"path": "pages/result/result",
+			"style": {
+				"navigationBarTitleText": "详细参数"
+			}
+		},
+		{
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "恭喜你! 找到了隐藏功能"
+			}
+		},
+		{
+			"path": "pages/webview/webview",
+			"style": {
+				"navigationBarTitleText": "开发者博客"
+			}
+		},
+		{
+			"path": "pages/selection/selection",
+			"style": {
+				"navigationBarTitleText": "算力卡选型助手"
+			}
+		}
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"permission": {
+		"scope.writePhotosAlbum": {
+			"desc": "需要访问相册"
+		}
+	}
+}

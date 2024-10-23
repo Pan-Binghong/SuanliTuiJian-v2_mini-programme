@@ -1,0 +1,19 @@
+# 依赖
+/node_modules
+
+# 构建输出
+/dist
+/build
+
+# IDE文件
+.hbuilderx
+.idea
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 环境变量
+.env
+
+/unpackage
