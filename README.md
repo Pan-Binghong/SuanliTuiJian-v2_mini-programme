@@ -44,7 +44,7 @@ AI算力卡查询工具v2/
 ## 安装和运行
 
 1. 确保你的开发环境中已安装微信开发者工具。
-2. 克隆本仓库到本地。
+2. 克隆本仓库到本地：`git clone https://github.com/panpan02222/suanlituijian-v2_mini-programme.git`
 3. 使用微信开发者工具打开项目目录。
 4. 在微信开发者工具中编译和预览项目。
 
@@ -85,7 +85,7 @@ VUE_APP_API_SK=your_api_sk_here
 ### 方法 1：使用微信开发者工具（推荐新手使用）
 
 1. 下载并安装[微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)。
-2. 克隆本仓库到本地：`git clone [仓库URL]`
+2. 克隆本仓库到本地：`git clone https://github.com/panpan02222/suanlituijian-v2_mini-programme.git`
 3. 打开微信开发者工具，选择"导入项目"。
 4. 选择项目目录，填入自己的小程序 AppID。
 5. 在模拟器中预览效果，或者使用真机调试。
@@ -97,8 +97,8 @@ VUE_APP_API_SK=your_api_sk_here
 1. 确保已安装 Node.js 和 npm。
 2. 全局安装 Vue CLI：`npm install -g @vue/cli`
 3. 安装 uni-app 命令行工具：`npm install -g @dcloudio/vue-cli-plugin-uni`
-4. 克隆本仓库到本地：`git clone [仓库URL]`
-5. 进入项目目录：`cd [项目名称]`
+4. 克隆本仓库到本地：`git clone https://github.com/panpan02222/suanlituijian-v2_mini-programme.git`
+5. 进入项目目录：`cd suanlituijian-v2_mini-programme`
 6. 安装依赖：`npm install`
 7. 运行开发服务器：`npm run dev:mp-weixin`
 8. 使用微信开发者工具打开项目目录下的 `dist/dev/mp-weixin` 文件夹。
